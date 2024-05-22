@@ -1,0 +1,32 @@
+
+**Title: The Role of Machine Learning in Modern Cyberbullying Detection**
+
+*Introduction:*
+
+"Good [morning/afternoon/evening] everyone,
+
+My name is Abdul Samad, a passionate Data Scientist based in Kerala, India. Today, I am honored to present my work on 'The Role of Machine Learning in Modern Cyberbullying Detection.' As someone deeply invested in the potential of artificial intelligence, I have dedicated a significant portion of my career to developing solutions that can make our online spaces safer and more respectful.
+
+*Background:*
+
+Cyberbullying has become a pervasive issue in the digital age. With the rise of social media and online communication platforms, the need for effective detection and prevention strategies is more critical than ever. Traditional methods of addressing cyberbullying often fall short due to the sheer volume of content and the nuanced nature of online interactions.
+
+*Our Solution - CyberGuard:*
+
+In response to this challenge, I developed a project called CyberGuard. CyberGuard is an AI-powered platform designed to detect and transform cyberbullying into a more polite and respectful form without losing the original context. This solution ensures that negative comments remain negative but are stripped of their harmful impact.
+
+*Key Features and Techniques:*
+
+CyberGuard leverages advanced machine learning techniques, including Natural Language Processing (NLP) and Generative AI. By utilizing pre-trained models from the Hugging Face library and fine-tuning them with the Lora PEFT technique, we achieved a high level of accuracy and efficiency in identifying and transforming harmful language.
+
+One of the main challenges we faced was maintaining the context of the original message while removing its harmful elements. Through rigorous testing and iterative improvements, we developed a system that effectively balances these requirements. Our efforts were rewarded when CyberGuard was recognized for its innovation and practical impact in the field of AI-driven social solutions.
+
+*Future Directions:*
+
+Looking ahead, we aim to extend CyberGuard's capabilities to various online platforms, ensuring its adaptability and scalability. Additionally, we are exploring the integration of distributed training using Azure Cloud servers to enhance the model's performance further. Our ultimate goal is to create an online environment where constructive criticism can flourish without the adverse effects of cyberbullying.
+
+*Conclusion:*
+
+In conclusion, the application of machine learning in cyberbullying detection and prevention represents a significant step forward in creating safer online communities. I am incredibly proud of the work we have accomplished with CyberGuard and excited about its future potential. I believe that through continued innovation and collaboration, we can make the internet a more respectful and inclusive space for everyone.
+
+Thank you for your attention. I am happy to take any questions you may have."
